@@ -1,7 +1,7 @@
 ### Hey mate! I'm Saymon Oliveira
 
 - 💻 Test Automation Engineer
-- 🏡 Brazilian, living in Minas Gerais (for now)
+- 🏡 Brazilian, living in Gold Coast, Australia
 - 🙋‍♀️🙋‍♂️🙋‍♂️Triplet
 
 ---
